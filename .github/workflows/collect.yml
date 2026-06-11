@@ -1,4 +1,4 @@
-name: Collect Air Quality
+name: Collect Air Quality v2
 
 on:
   schedule:
